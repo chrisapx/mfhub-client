@@ -31,7 +31,7 @@ const Home = () => {
 
   return (
     <div 
-      className="h-screen relative flex flex-col items-center bg-[url('public/images/Frame1-mobile.png')] md:bg-[url('public/images/Frame1.png')] bg-cover bg-center bg-black bg-opacity-90"
+      className="h-screen relative flex flex-col items-center bg-[url('images/Frame1-mobile.png')] md:bg-[url('images/Frame1.png')] bg-cover bg-center bg-black bg-opacity-90"
     >
       <section className="flex items-center justify-center gap-4 py-2 bg-orange-100 w-full">
         <p className="font-medium text-sm">New offer on pallet bed available now.</p>
